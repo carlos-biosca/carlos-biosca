@@ -1,7 +1,5 @@
 # Hello, I'm Carlos
 
-## Frontend Developer | MERN Stack
-
 I'm a seasoned React frontend developer with a strong background in the MERN stack (MongoDB, Express, React, and Node.js). I love creating web apps that look great, are easy to use, and make sense for users. My goal is to build digital experiences that are intuitive, engaging, and meet business goals.
 I've worked with a bunch of different CSS frameworks, so I can quickly adapt to whatever a project needs. This flexibility helps me create modern, responsive designs that follow best practices.
 I'm all about writing clean, easy-to-maintain code and paying attention to the little details. I'm great at turning complicated requirements into simple, functional solutions. I work well in teams and am always excited to learn about new tech to stay ahead in frontend development.
